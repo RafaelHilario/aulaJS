@@ -21,3 +21,4 @@ const pessoa2 = new Pessoa('rafale', 21)
 pessoa1.dizerOla(); 
 pessoa2.dizerOla();
 pessoa1.fazerAniversario();
+pessoa2.fazerAniversario();
